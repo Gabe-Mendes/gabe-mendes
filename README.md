@@ -2,8 +2,8 @@
 ## Meu nome é Gabriel (ele/dele), sou desenvolvedor Full Stack e aqui vão algumas informações...
 
 - 💾 Tenho trabalhado atualmente com ASP Net Framework (Core | MVC | WebForms), Adm DB SQL Server, Rest API, Azure
-- 🌱 Atualmente tenho estudado sobre Microsserviços, Mensageria, Conteinerização, BigQuery e Looker
-- ⚡ Fun fact: Gosto de desenhar, caricaturas as vezes.. Sou pai de 2 bichinhos lindos, pessoinhas mesmo, uma menina e um menino
+- 🌱 Estou gostando muito de estudar sobre Microsserviços, Mensageria, Conteinerização, BigQuery e Looker
+- ⚡ Fun fact: Gosto de desenhar (talvez faça uma caricaturas sua rs). Também sou pai de 2 bichinhos lindos 😍 ...pessoinhas mesmo, uma menina e um menino
 <hr/>
 <p align="center">
   <a href="https://skillicons.dev">
